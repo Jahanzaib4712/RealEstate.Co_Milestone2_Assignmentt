@@ -9,13 +9,13 @@ const AboutUs: React.FC = () => {
 
       <div className={styles.mission}>
         <h3>Our Mission</h3>
-        <p>Our mission is to provide exceptional real estate services that exceed our clients' expectations. We believe in building long-term relationships based on trust, transparency, and outstanding customer service.</p>
+        <p>Our mission is to provide exceptional real estate services that exceed our clients&apos; expectations. We believe in building long-term relationships based on trust, transparency, and outstanding customer service.</p>
       </div>
 
       <div className={styles.team}>
         <h3>Meet Our Team</h3>
         <ul>
-          <li>John Doe - Founder & CEO</li>
+          <li>John Doe - Founder &amp; CEO</li>
           <li>Jane Smith - Senior Property Consultant</li>
           <li>Michael Lee - Sales Director</li>
         </ul>
