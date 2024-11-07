@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from '../app/page.module.css'; // Assuming you have a CSS module named Hero.module.css
-import Image from 'next/image';
 
 const Hero: React.FC = () => {
   return (
